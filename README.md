@@ -18,3 +18,4 @@ Check out the plugins to see the different functionality and their keymaps. For 
 - file explorer (key: `Ctrl+n`) in `neo-tree.lua`
 - "Go to Definition" (key: `<space>gd`) in `lsp-config.lua`
 - switch to another open project (key: `<space>ls`) in `sessions.lua`
+- get a git permalink for the curent line (key: `<space>gy`)
