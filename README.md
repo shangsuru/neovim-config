@@ -19,3 +19,10 @@ Check out the plugins to see the different functionality and their keymaps. For 
 - "Go to Definition" (key: `<space>gd`) in `lsp-config.lua`
 - switch to another open project (key: `<space>ls`) in `sessions.lua`
 - get a git permalink for the curent line (key: `<space>gy`)
+- hovering like in a normal IDE (key: `K`)
+- [other vim shortcuts](https://vimtricks.com/p/50-useful-vim-commands/)
+
+## Complementary terminal tools
+
+- lazygit
+- lazydocker
